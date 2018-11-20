@@ -6,7 +6,5 @@ while i <= array.length-1
     i = i = 1
 end
 array
-else
-  puts "No block was given"
 end
 end
